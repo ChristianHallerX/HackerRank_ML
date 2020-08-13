@@ -17,7 +17,7 @@ Notebook: https://github.com/ChristianHallerX/HackerRank_ML/blob/master/House_pr
 ### Polynomial Regression: Office Prices
 https://www.hackerrank.com/challenges/predicting-office-space-price
 
-Notebook: https://github.com/ChristianHallerX/HackerRank_ML/blob/master/Office%20Prices.ipynb
+Notebook: https://github.com/ChristianHallerX/HackerRank_ML/blob/master/Office_Prices.ipynb
 
 
 
